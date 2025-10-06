@@ -1,0 +1,5 @@
+export const TESTNET_FAUCET_PACKAGE_ID =
+  "0x71909abc4133f661f1dc8aefeae962f6661dacaa3b4bbd739e3b7c6cd5520d1b";
+
+export const TESTNET_FAUCET_OBJECT_ID =
+  "0x832c9292a54c0b2b2a20ff328c02bb212990c2c3d9dc22ba9caf7b85162483be";
